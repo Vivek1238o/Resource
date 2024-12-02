@@ -1,0 +1,31 @@
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.nav-menu {
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    width: min(100%);
+    font-size: larger;
+    color: white;
+    list-style: none;
+    /* margin-left: 30%; */
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 20px;
+    box-sizing: border-box;
+    /* border: 2px solid black; */
+    padding: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 30px;
+    background: linear-gradient(rgb(53, 53, 86), rgb(84, 84, 147));
+
+
+}
+
+.navbar-right {}
